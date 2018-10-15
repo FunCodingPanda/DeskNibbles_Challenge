@@ -16,4 +16,6 @@ c) If all those snackers we're to pay for their 'fave_snack'what's the total pri
 My favourite snack is pistashios. 
 
 ## Step 3. 
-run node node DeskNibblesSolution.js
+run this in the terminal
+
+node DeskNibblesSolution.js
